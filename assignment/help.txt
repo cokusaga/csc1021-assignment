@@ -1,0 +1,19 @@
+========================
+Custom Shell - User Guide
+========================
+
+Supported Commands:
+- cd <dir>         : Change the current directory.
+- clr             : Clear the terminal screen.
+- dir <dir>       : List contents of a directory.
+- environ         : Display all environment variables.
+- echo <text>     : Print text to the terminal.
+- help            : Display this help manual.
+- pause           : Wait until 'Enter' is pressed.
+- quit            : Exit the shell.
+
+Additional Features:
+- Batch Mode: Run commands from a file.
+- Environment: The shell sets a `shell` variable to its full path.
+
+Note: Use `more help.txt` to read this file in a normal shell.

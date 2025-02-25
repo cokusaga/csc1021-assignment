@@ -1,0 +1,7 @@
+echo Running batch file...
+dir
+cd ..
+pwd
+environ
+echo Done!
+quit
